@@ -1,0 +1,1 @@
+This program generates ARUCO markers from a predefined dictionary then consequently, those markers are used in a polygonal format(rectangle in the example) to create a bounding box shape that follows a cyclic order. 
